@@ -4,56 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b435d2403c60b55a",
+        "id": "878650e549d3ba92",
         "type": "tabs",
         "children": [
           {
-            "id": "1e39981bd7433cfa",
+            "id": "30ce69686dc8340c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff0201731fe8e541",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NORMATIVA/ASIR/Administración de Sistemas Informáticos y Redes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0ad38aa21ed8d00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NORMATIVA/DAM/Desarrollo de Aplicaciones Multiplataforma.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ebfcc51e84ad41a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NORMATIVA/DAW/Desarrollo de Aplicaciones Web.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -106,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "d724faeddd73990a",
@@ -122,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,16 +118,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 259.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,18 +139,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1e39981bd7433cfa",
+  "active": "30ce69686dc8340c",
   "lastOpenFiles": [
-    "NORMATIVA/SMR/Aplicaciones Ofimáticas.md",
-    "NORMATIVA/ASIR/Administración de Sistemas Informáticos y Redes.md",
-    "NORMATIVA/DAM/Desarrollo de Aplicaciones Multiplataforma.md",
     "NORMATIVA/DAW/Desarrollo de Aplicaciones Web.md",
-    "NORMATIVA/SMR/Sistemas Microinformáticos y Redes.md",
+    "NORMATIVA/DAW/Bases de datos (DAW).md",
+    "NORMATIVA/DAW/Proyecto de desarrollo de aplicaciones web.md",
+    "NORMATIVA/DAW/Formación en Centros de Trabajo (DAW).md",
+    "NORMATIVA/DAW/Diseño de interfaces web.md",
+    "NORMATIVA/DAW/Despliegue de aplicaciones web.md",
+    "NORMATIVA/DAW/Desarrollo web en entorno servidor.md",
+    "NORMATIVA/DAW/Desarrollo web en entorno cliente.md",
+    "NORMATIVA/DAW/Programación (DAW).md",
+    "NORMATIVA/DAW/Lenguajes de marcas y sistemas de gestión de información (DAW).md",
+    "NORMATIVA/DAW/Entornos de desarrollo (DAW).md",
+    "NORMATIVA/DAM/Sistemas de gestión empresarial.md",
+    "NORMATIVA/DAM/Acceso a datos.md",
+    "NORMATIVA/DAM/Desarrollo de Aplicaciones Multiplataforma.md",
+    "NORMATIVA/DAM/Proyecto de desarrollo de aplicaciones multiplataforma.md",
+    "NORMATIVA/DAM/Programación de servicios y procesos.md",
+    "NORMATIVA/DAM/Programación multimedia y dispositivos móviles.md",
+    "NORMATIVA/DAM/Formación en Centros de Trabajo (DAM).md",
+    "NORMATIVA/DAM/Desarrollo de interfaces.md",
+    "NORMATIVA/DAM/Lenguajes de marcas y sistemas de gestión de información (DAM).md",
+    "NORMATIVA/DAM/Entornos de desarrollo (DAM).md",
+    "NORMATIVA/DAM/Bases de datos (DAM).md",
+    "NORMATIVA/ASIR/Administración de sistemas gestores de bases de datos.md",
+    "NORMATIVA/ASIR/Seguridad y alta disponibilidad.md",
+    "NORMATIVA/ASIR/Servicios de red e internet.md",
+    "NORMATIVA/ASIR/Proyecto de administración de sistemas informáticos en red.md",
     "NORMATIVA/DAW",
     "NORMATIVA/DAM",
     "NORMATIVA/ASIR",
     "NORMATIVA/SMR",
-    "NORMATIVA",
-    "README.md"
+    "NORMATIVA"
   ]
 }

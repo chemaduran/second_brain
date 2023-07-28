@@ -1,8 +1,8 @@
 ## Resultados de aprendizaje y criterios de evaluación
 
 1. Instala y actualiza aplicaciones ofimáticas, interpretando especificaciones y describiendo los pasos a seguir en el proceso. Criterios de evaluación:
-    1. Se han identificado y establecido las fases del proceso de instalación.
-    2. Se han respetado las especificaciones técnicas del proceso de instalación.
+    1.  Se han identificado y establecido las fases del proceso de instalación.
+    2.  Se han respetado las especificaciones técnicas del proceso de instalación.
     3. Se han configurado las aplicaciones según los criterios establecidos.
     4. Se han documentado las incidencias.
     5. Se han solucionado problemas en la instalación o integración con el sistema informático.
