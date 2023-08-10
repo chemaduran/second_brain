@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "878650e549d3ba92",
+        "id": "ba7e4fc02aed6d09",
         "type": "tabs",
         "children": [
           {
-            "id": "30ce69686dc8340c",
+            "id": "ccd1373ce755fa78",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "NORMATIVA/DAM/RD_450_2010.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"- **Aplicaciones ofimáticas**. 8h. (PTFP)\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NORMATIVA/DAM/RD_450_2010.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,8 +102,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NORMATIVA/DAM/RD_450_2010.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -118,16 +124,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NORMATIVA/DAM/RD_450_2010.md"
+              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 259.5,
-    "collapsed": true
+    "width": 259.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -139,9 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "30ce69686dc8340c",
+  "active": "ccd1373ce755fa78",
   "lastOpenFiles": [
+    "NORMATIVA/DAM/O_16_junio_2011.md",
+    "NORMATIVA/DAW/O_EDU_2887_2010_DAW.md",
+    "NORMATIVA/DAW/O_16_junio_2011_DAW.md",
     "NORMATIVA/DAW/Desarrollo de Aplicaciones Web.md",
+    "NORMATIVA/LO_3_2022 31 marzo de ordenación e integración de la FP.md",
+    "NORMATIVA/FCT",
+    "NORMATIVA/FCT/O_28_septiembre_2011.md",
+    "NORMATIVA/ADMIN/D_153_2017.md",
+    "NORMATIVA/ADMIN",
+    "NORMATIVA/DAM/RD_450_2010.md",
+    "NORMATIVA/SMR/Sistemas Microinformáticos y Redes.md",
+    "NORMATIVA/SMR/Redes Locales.md",
+    "README.md",
     "NORMATIVA/DAW/Bases de datos (DAW).md",
     "NORMATIVA/DAW/Proyecto de desarrollo de aplicaciones web.md",
     "NORMATIVA/DAW/Formación en Centros de Trabajo (DAW).md",
@@ -156,17 +175,6 @@
     "NORMATIVA/DAM/Acceso a datos.md",
     "NORMATIVA/DAM/Desarrollo de Aplicaciones Multiplataforma.md",
     "NORMATIVA/DAM/Proyecto de desarrollo de aplicaciones multiplataforma.md",
-    "NORMATIVA/DAM/Programación de servicios y procesos.md",
-    "NORMATIVA/DAM/Programación multimedia y dispositivos móviles.md",
-    "NORMATIVA/DAM/Formación en Centros de Trabajo (DAM).md",
-    "NORMATIVA/DAM/Desarrollo de interfaces.md",
-    "NORMATIVA/DAM/Lenguajes de marcas y sistemas de gestión de información (DAM).md",
-    "NORMATIVA/DAM/Entornos de desarrollo (DAM).md",
-    "NORMATIVA/DAM/Bases de datos (DAM).md",
-    "NORMATIVA/ASIR/Administración de sistemas gestores de bases de datos.md",
-    "NORMATIVA/ASIR/Seguridad y alta disponibilidad.md",
-    "NORMATIVA/ASIR/Servicios de red e internet.md",
-    "NORMATIVA/ASIR/Proyecto de administración de sistemas informáticos en red.md",
     "NORMATIVA/DAW",
     "NORMATIVA/DAM",
     "NORMATIVA/ASIR",
