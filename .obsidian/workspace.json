@@ -104,7 +104,7 @@
               "state": {
                 "file": "NORMATIVA/DAM/RD_450_2010.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -146,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ccd1373ce755fa78",
+  "active": "0fa6ec58135a4417",
   "lastOpenFiles": [
     "NORMATIVA/DAM/O_16_junio_2011.md",
     "NORMATIVA/DAW/O_EDU_2887_2010_DAW.md",
