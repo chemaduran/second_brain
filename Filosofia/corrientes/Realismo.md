@@ -1,0 +1,3 @@
+Podría considerarse la antítesis del [[Idealismo]]. Este movimiento defiende la existencia de los objetos independientemente de la conciencia que las observa. Las cosas subsisten al margen de si el ser humano las percibe o no a través de los sentidos. Aunque atiende al pensamiento de filósofos como Platón o Aristóteles, es en la Edad Media cuando se desarrolla.
+
+**Representantes:** Aristóteles y Santo Tomás de Aquino

@@ -1,0 +1,3 @@
+Esta doctrina filosófica surge en la antigüedad y toma como punto de partida al individuo en tanto que sujeto congnoscente. El **subjetivismo** entiende que el conocimiento depende de cada individuo, por tanto la verdad o la falsedad de los juicios dependen del sujeto que conoce y juzga. Sin asumir verdades absolutas o universales.
+
+**Representantes:** Protágoras, Georgias de Leontinos (época antigua) y Nietzsche (contemporánea).

@@ -1,0 +1,3 @@
+Se fundamenta en la duda. Para **los pensadores escépticos** la razón y los sentidos carecen de fiabilidad por lo que no existe nada que se pueda afirmar o negar con firmeza. Así que, estos pensadores dudan de todo: de la validez de los juicios, de la capacidad humana o de los valores externos. El escepticismo presenta tres etapas, la primera surge en la antigüedad.
+
+**Representantes:** Pirrón, Timón el Silógrafo y Sexto Empírico.

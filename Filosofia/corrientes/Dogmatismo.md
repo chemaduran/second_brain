@@ -1,0 +1,3 @@
+Esta corriente tiene lugar en los siglos **VII y VI a. de. C.** y se opone al [[Idealismo]] y al [[Escepticismo]]. El **dogmatismo** se sustenta en la posibilidad de la razón humana en conocer toda la verdad e interpretar la realidad. Para ello se fundamenta en la aceptación de dogmas, sin aceptar cuestionamientos de los mismos. Un dogmático confía ciegamente en la razón sin admitir sus límites.
+
+**Representantes:** Tales de Mileto, Anaximandro, Anaximenes, Heráclito, Pitágoras y Parménides.
