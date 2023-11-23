@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "406456432c1e901c",
+        "id": "e35a049a9d36dfe9",
         "type": "tabs",
         "children": [
           {
-            "id": "54cc18b57ca4827f",
+            "id": "ea9d46df45cd12db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FuncionarioPracticas/Reunión Prácticas Inspector.md",
-                "mode": "source",
+                "file": "NORMATIVA/LO_3_2022 31 marzo de ordenación e integración de la FP.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FuncionarioPracticas/Reunión Prácticas Inspector.md",
+                "file": "NORMATIVA/LO_3_2022 31 marzo de ordenación e integración de la FP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FuncionarioPracticas/Reunión Prácticas Inspector.md",
+                "file": "NORMATIVA/LO_3_2022 31 marzo de ordenación e integración de la FP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FuncionarioPracticas/Reunión Prácticas Inspector.md"
+                "file": "NORMATIVA/LO_3_2022 31 marzo de ordenación e integración de la FP.md"
               }
             }
           },
@@ -157,10 +157,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54cc18b57ca4827f",
+  "active": "ea9d46df45cd12db",
   "lastOpenFiles": [
-    "README.md",
+    "conflict-files-obsidian-git.md",
     "FuncionarioPracticas/Reunión Prácticas Inspector.md",
+    "IMG_20231017_174323.jpg",
+    "Fase de prácticas.md",
+    "README.md",
     "FuncionarioPracticas",
     "NORMATIVA/DAW/módulos/Programación (DAW).md",
     "NORMATIVA/Curso Especialización Videojuegos.md",
@@ -188,7 +191,6 @@
     "NORMATIVA/ASIR/módulos/Implantación de aplicaciones web.md",
     "NORMATIVA/DAM/Desarrollo de Aplicaciones Multiplataforma.md",
     "NORMATIVA/DAW/módulos/Despliegue de aplicaciones web.md",
-    "Filosofia/corrientes/Cinismo.md",
     "Filosofia/corrientes/Pasted image 20230829155714.png",
     "Filosofia/corrientes",
     "Mitologia",
