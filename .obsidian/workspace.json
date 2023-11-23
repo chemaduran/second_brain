@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e35a049a9d36dfe9",
+        "id": "b34f6e0f71a842e7",
         "type": "tabs",
         "children": [
           {
-            "id": "ea9d46df45cd12db",
+            "id": "33da961b5167e41a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NORMATIVA/LO_3_2022 31 marzo de ordenación e integración de la FP.md",
-                "mode": "preview",
+                "file": "Fase de prácticas/EBEP.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NORMATIVA/LO_3_2022 31 marzo de ordenación e integración de la FP.md",
+                "file": "Fase de prácticas/EBEP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NORMATIVA/LO_3_2022 31 marzo de ordenación e integración de la FP.md",
+                "file": "Fase de prácticas/EBEP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NORMATIVA/LO_3_2022 31 marzo de ordenación e integración de la FP.md"
+                "file": "Fase de prácticas/EBEP.md"
               }
             }
           },
@@ -157,13 +157,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea9d46df45cd12db",
+  "active": "33da961b5167e41a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "FuncionarioPracticas/Reunión Prácticas Inspector.md",
-    "IMG_20231017_174323.jpg",
-    "Fase de prácticas.md",
+    "Fase de prácticas/Reunión inicial Heliópolis.md",
+    "Fase de prácticas/EBEP.md",
     "README.md",
+    "NORMATIVA/ADMIN/Reglamento Orgánico de los Institutos de Educación Secundaria.md",
+    "Fase de prácticas",
+    "NORMATIVA/ADMIN/LOMLOE.md",
+    "NORMATIVA/ADMIN/LO_3_2022 31 marzo de ordenación e integración de la FP.md",
+    "conflict-files-obsidian-git.md",
+    "Fase de prácticas/Reunión Prácticas Inspector.md",
+    "Fase de prácticas/IMG_20231017_174323.jpg",
     "FuncionarioPracticas",
     "NORMATIVA/DAW/módulos/Programación (DAW).md",
     "NORMATIVA/Curso Especialización Videojuegos.md",
@@ -187,15 +192,10 @@
     "NORMATIVA/ASIR/módulos",
     "NORMATIVA/DAW/Desarrollo de Aplicaciones Web.md",
     "NORMATIVA/SMR/Sistemas Microinformáticos y Redes.md",
-    "NORMATIVA/ASIR/módulos/Formación en centros de trabajo (ASIR).md",
-    "NORMATIVA/ASIR/módulos/Implantación de aplicaciones web.md",
-    "NORMATIVA/DAM/Desarrollo de Aplicaciones Multiplataforma.md",
-    "NORMATIVA/DAW/módulos/Despliegue de aplicaciones web.md",
     "Filosofia/corrientes/Pasted image 20230829155714.png",
     "Filosofia/corrientes",
     "Mitologia",
     "Filosofia",
-    "NORMATIVA/FCT",
-    "NORMATIVA/ADMIN"
+    "NORMATIVA/FCT"
   ]
 }
